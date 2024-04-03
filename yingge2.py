@@ -11,12 +11,12 @@ import papapa2
 # C=4
 
 #初始值
-year = 2                   #进化次数
+year = 10                   #进化次数
 yilunpk = 10                #随机pk多少次再进行整体去除繁殖进化
 minp = 0                    #最小食物，小于即死亡
 
 
-families = 10             #默认种群个体数
+families = 100             #默认种群个体数
 families_shuxing = 13       #个体属性数（个体编号，是否存活，个体分数,属性1为鹰0为鸽,选择逃跑or斗争0/1）
 no_ = 0 #个体序号
 families_ = families       #剩余种群个体数
